@@ -1,0 +1,23 @@
+
+main{
+  color: #1b1b1b;
+  height: calc(100vh - 133px);
+  width: 50%; 
+  margin: auto;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 60px;
+
+  display: flex;
+  flex-direction:column ;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+
+}
+.main-content h2{
+font-size: 35px;
+margin-bottom: -30px;
+color:  #1b1b1b;
+}
